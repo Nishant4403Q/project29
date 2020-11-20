@@ -83,9 +83,7 @@ function draw() {
   blocks9.display();
 ball.display();
 sling.display();
-textSize(20);
-  fill("lightyellow");
-  text("Drag the Hexagonal Stone and Release it, to launch it towards the blocks",100,30);
+
 
 }
 function mouseDragged(){
